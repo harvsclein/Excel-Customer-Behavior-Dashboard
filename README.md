@@ -1,5 +1,10 @@
 # Customer Behavior & Marketing Insights Dashboard
 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Interactive_Dashboard-0078D4?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF9800?style=for-the-badge)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
 An interactive Microsoft Excel dashboard that analyzes customer demographics, purchasing behavior, and marketing campaign performance using the **Customer Personality Analysis** dataset. This project demonstrates a complete Excel analytics workflow, including data cleaning, feature engineering, Pivot Tables, KPI development, and dashboard design.
 
 ---
