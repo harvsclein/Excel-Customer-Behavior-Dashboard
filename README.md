@@ -5,7 +5,7 @@
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF9800?style=for-the-badge)
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-An interactive Microsoft Excel dashboard that analyzes customer demographics, purchasing behavior, and marketing campaign performance using the **Customer Personality Analysis** dataset. This project demonstrates a complete Excel analytics workflow, including data cleaning, feature engineering, Pivot Tables, KPI development, and dashboard design.
+An interactive Microsoft Excel dashboard that analyzes customer demographics, purchasing behavior, and marketing campaign performance using the **Customer Personality Analysis** dataset. This project demonstrates a complete Excel analytics workflow, including data cleaning, feature engineering, PivotTables, KPI development, and dashboard design.
 
 ---
 
